@@ -16,6 +16,7 @@ The list of dependencies is a WIP. The items in Production is list of dependenci
 - [ ] Add the whiteboard document on google doc and link it here
 - [ ] Create Data Schema and scope out the data source/package- Try for a single package with multi country markets
 
-## Background Information
+## Project Information & Expansion Ideas
+The itemlist once implemented needs to be elevated as a separate Readme page.
 - To recalculate the growth rate of market indices when pegged against a common currency (USD).
 - 
