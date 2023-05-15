@@ -20,3 +20,8 @@ The list of dependencies is a WIP. The items in Production is list of dependenci
 The itemlist once implemented needs to be elevated as a separate Readme page.
 - To recalculate the growth rate of market indices when pegged against a common currency (USD).
 - 
+
+
+## Whitboarding Doc- 
+Google Doc: [Link](https://docs.google.com/document/d/15icRQs1j7O_LG1nZEwMJMEp8aLa_EMHC/edit?usp=sharing_eip_m&rtpof=true&sd=true&ts=6460aea3)
+
